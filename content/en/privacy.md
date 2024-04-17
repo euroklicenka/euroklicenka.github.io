@@ -1,8 +1,8 @@
----
-title: "Privacy_policy"
-date: 2024-04-17T21:23:24+02:00
-draft: true
----
++++
+title = 'Privacy Policy'
+date = 2024-04-17T21:33:36+02:00
+draft = false
++++
 
 This application does not collect or store personal data.
 

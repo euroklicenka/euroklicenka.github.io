@@ -1,8 +1,8 @@
----
-title: "Zásady ochrany osobních údajů"
-date: 2024-04-17T21:23:24+02:00
-draft: true
----
++++
+title = "Zásady ochrany osobních údajů"
+date = 2024-04-17T21:33:36+02:00
+draft = false
++++
 
 Tato aplikace neshromažďuje ani neukládá osobní údaje.
 
