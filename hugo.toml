@@ -1,4 +1,23 @@
 baseURL = 'https://euroklicenka.cz/'
-languageCode = 'cs-cz'
-title = 'EuroKlíčenka'
 theme = 'ananke'
+
+defaultContentLanguage = 'cs'
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.cs]
+    contentDir = 'content/cs'
+    disabled = false
+    languageCode = 'cs-CZ'
+    languageDirection = 'ltr'
+    languageName = 'Čeština'
+    title = 'EuroKlíčenka'
+    weight = 1
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'EuroKeyring'
+    weight = 2
