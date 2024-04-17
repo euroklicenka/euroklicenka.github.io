@@ -1,0 +1,4 @@
+baseURL = 'https://euroklicenka.cz/'
+languageCode = 'cs-cz'
+title = 'EuroKlíčenka'
+theme = 'ananke'
